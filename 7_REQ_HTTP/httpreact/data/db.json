@@ -1,20 +1,38 @@
-{ 
-    "products": [
+{
+  "products": [
     {
-    "id":1, 
-    "name": "Bluza azul", 
-    "price": 90
-    }, 
+      "id": "1",
+      "name": "Bluza azul",
+      "price": 90
+    },
     {
-    "id":2, 
-    "name": "Calça vermelha", 
-    "price": 100
-    }, 
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 100
+    },
     {
-    "id":3, 
-    "name": "Boné Stanley", 
-    "price": 20
+      "id": "3",
+      "name": "Boné Stanley",
+      "price": 20
+    },
+    {
+      "id": "d009",
+      "name": "bermuda",
+      "price": "11"
+    },
+    {
+      "id": "284e",
+      "name": "caneta",
+      "price": "1"
+    },
+    {
+      "id": "ff1f",
+      "name": "caneta",
+      "price": "1"
+    },
+    {
+      "id": "e584",
+      "name": ""
     }
-    ]
-
+  ]
 }
